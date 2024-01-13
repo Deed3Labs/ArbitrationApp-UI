@@ -44,9 +44,9 @@ export const colors = {
        },
        "neutral": {
         "c-800": "#ffffff",
-        "c-700": "#ffffff",
-        "c-600": "#ffffff",
-        "c-500": "#ffffff",
+        "c-700": "#224059",
+        "c-600": "#426685",
+        "c-500": "#7395b2",
         "c-400": "#ffffffb3",
         "c-300": "#e2eff9",
         "c-200": "#ffffff1a",
