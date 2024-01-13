@@ -73,7 +73,7 @@ export const colors = {
         600: "#0880C4",
         700: "#00659F",
         800: "#004C78",
-        900: "#ffffff",
+        900: "#003654",
         DEFAULT: "#69c9ff",
     },
     greensea: {
