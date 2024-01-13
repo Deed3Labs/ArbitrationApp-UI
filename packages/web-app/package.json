@@ -38,7 +38,7 @@
     "ipfs-car": "^0.9.1",
     "keccak256": "^1.0.6",
     "markdown-it": "^13.0.1",
-    "merkletreejs": "^0.3.0",
+    "merkletreejs": "^0.3.11",
     "next": "latest",
     "next-i18next": "^13.0.3",
     "next-transpile-modules": "^10.0.0",
