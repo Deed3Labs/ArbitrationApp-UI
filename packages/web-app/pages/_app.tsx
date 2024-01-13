@@ -42,7 +42,7 @@ const HeaderNavigation = memo(() => {
 		<>
 			<Link
 				href="/agreements"
-				className={`${"text-sm py-min2 px-min3 bg-white shadow rounded-md ml-min3 text-neutral-700"}`}
+				className={`${"text-sm py-min2 px-min3 bg-pr-c-black3 shadow rounded-md ml-min3 text-neutral-700"}`}
 			>
 				Agreements
 			</Link>
