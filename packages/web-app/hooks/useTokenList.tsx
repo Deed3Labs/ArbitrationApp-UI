@@ -48,6 +48,13 @@ const goerliTokens = [
 		decimals: 18,
 		icon: "/tokens/weth.png",
 	},
+	{
+		name: "STREETBASED Community Token",
+		symbol: "SBC",
+		address: "0x9048011B6b9C8bC90ACee48e048e343614af1088",
+		decimals: 18,
+		icon: "/tokens/dai.png",
+	},
 ];
 
 const empty = {
