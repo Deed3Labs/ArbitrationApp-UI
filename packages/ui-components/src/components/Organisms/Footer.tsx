@@ -31,7 +31,7 @@ const IFooterDefaultProps = {
 const Footer: React.FC<IFooterProps> = (props) => {
 	const { menu } = props;
 	return (
-		<footer className="hidden md:flex justify-center p-base border-t-2 border-neutral-c-200">
+		<footer className="hidden md:flex justify-center pr-c-black1 border-t-2 border-neutral-c-200">
 			<div className="md:grid grid-cols-xl">
 				<div className="col-start-1 col-end-7 flex justify-start items-center">
 					<LogoHolder>
