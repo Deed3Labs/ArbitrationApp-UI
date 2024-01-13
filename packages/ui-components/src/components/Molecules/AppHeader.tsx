@@ -21,7 +21,7 @@ const AppHeader: React.FC<IAppHeaderProps> = (props) => {
 					<div className="pl-3">
 						<div className="flex items-center justify-start gap-2">
 							<h1 className="text-2xl text-slate-800 font-bold">{appName}</h1>
-							<span className="bg-newblack text-white text-sm p-0.5 rounded-lg px-2">Beta</span>
+							<span className="bg-greensea text-white text-sm p-0.5 rounded-lg px-2">Beta</span>
 						</div>
 						<p className="text-xs text-slate-600">{title}</p>
 					</div>
