@@ -19,7 +19,7 @@ const TopBarGrid = ({ children }: { children: ReactNode }) => (
 					"flex w-full md:w-auto mx-min2 md:grid grid-flow-row grid-cols-1 auto-rows-auto gap-y-16",
 					"lg:grid-cols-lg lg:gap-24",
 					"xl:grid-cols-xl",
-					"border-2 bg-glass-c-50 border-glass-c-80 backdrop-blur-sm rounded-full p-min2 mt-min3",
+					"border-2 bg-pr-c-black2 border-neutral-c-200 backdrop-blur-sm rounded-full p-min2 mt-min3",
 				)}
 			>
 				{children}
