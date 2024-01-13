@@ -14,7 +14,7 @@ const Card: React.FC<CardProps> = (props) => {
 	const cardClass = classNames(
 		size ? `p-${size}` : `p-base md:p-double`,
 		"w-full",
-		"bg-white",
+		"bg-pr-c-black2",
 		"rounded-lg",
 		"border-2",
 		"border-neutral-c-200",
