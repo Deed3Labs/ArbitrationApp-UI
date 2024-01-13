@@ -39,7 +39,7 @@ const DesktopNavigation = () => {
 						<IconRenderer
 							className=""
 							icon={<N3Agreement />}
-							backgroundColor="pr-c-green1"
+							backgroundColor="pr-c-black1"
 							size="xs"
 							rounded
 						/>
