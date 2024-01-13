@@ -48,7 +48,7 @@
     "react-textarea-autosize": "^8.4.1",
     "sharp": "^0.31.3",
     "tippy.js": "^6.3.7",
-    "wagmi": "^0.6.7",
+    "wagmi": "^0.7.15",
     "web3.storage": "^4.4.0"
   },
   "devDependencies": {
