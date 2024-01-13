@@ -44,7 +44,7 @@ export const colors = {
        },
        "neutral": {
         "c-800": "#ffffff",
-        "c-700": "#224059",
+        "c-700": "#ffffff",
         "c-600": "#426685",
         "c-500": "#7395b2",
         "c-400": "#ffffffb3",
@@ -73,7 +73,7 @@ export const colors = {
         600: "#0880C4",
         700: "#00659F",
         800: "#004C78",
-        900: "#003654",
+        900: "#ffffff",
         DEFAULT: "#69c9ff",
     },
     greensea: {
