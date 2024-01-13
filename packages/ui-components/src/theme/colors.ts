@@ -48,7 +48,7 @@ export const colors = {
         "c-500": "#7395b2",
         "c-400": "#acc5da",
         "c-300": "#e2eff9",
-        "c-200": "#f5fbff",
+        "c-200": "#ffffff1a",
         "c-100": "#ffffff"
        },
        "semantic": {
