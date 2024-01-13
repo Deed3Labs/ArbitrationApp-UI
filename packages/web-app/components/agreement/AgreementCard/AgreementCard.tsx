@@ -105,7 +105,7 @@ const AgreementCardBase: React.FC<CardProps> = ({ children }) => {
 	return (
 		<motion.div
 			className="w-full rounded-lg"
-			initial={{ opacity: 0, y: -10, boxShadow: "0px 0px 0 rgba(0, 0, 0, 0.0)" }}
+			initial={{ opacity: 0, y: -10, boxShadow: "0px 0px 0 rgba(20, 20, 20, 20)" }}
 			animate={{
 				opacity: 1,
 				y: 0,
