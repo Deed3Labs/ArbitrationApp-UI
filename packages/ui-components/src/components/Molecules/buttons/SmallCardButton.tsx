@@ -10,7 +10,7 @@ export const SmallCardButton = ({
 	onClick?: () => void;
 }) => (
 	<div
-		className={`flex gap-1 items-center justify-center bg-pr-c-black3 rounded-base cursor-pointer p-1 ${className}`}
+		className={`flex gap-1 items-center justify-center bg-pr-c-black3 rounded-base cursor-pointer p-1 border-2 border-neutral-c-200 ${className}`}
 		onClick={onClick}
 	>
 		{children}
