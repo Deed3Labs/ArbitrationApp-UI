@@ -10,7 +10,7 @@ const AppLayout = ({ children }: LayoutProps) => {
 	return (
 		<>
 			<TopBar />
-			<div className="min-h-screen w-full">{children}</div>
+			<div className="min-h-screen bg-pr-c-black1 w-full">{children}</div>
 			<Footer />
 		</>
 	);
