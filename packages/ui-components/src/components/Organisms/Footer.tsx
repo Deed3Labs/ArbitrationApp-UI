@@ -54,7 +54,7 @@ const Footer: React.FC<IFooterProps> = (props) => {
 									<IconRenderer
 										customSize={16}
 										icon={<N3LinkArrow />}
-										backgroundColor={"pr-c-blue1"}
+										backgroundColor={"pr-c-black1"}
 										size={"xs"}
 									/>
 								</a>
