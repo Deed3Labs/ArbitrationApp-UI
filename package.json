@@ -1,9 +1,9 @@
 {
   "name": "@nation3/court",
   "version": "0.1.0",
-  "description": "Nation3 Court client",
-  "repository": "https://github.com/nation3/court.git",
-  "author": "Nation3 Solar Guild",
+  "description": "D3 Agreements & Arbitration App",
+  "repository": "https://github.com/Deed3Labs/arbitration.git",
+  "author": "Deed3Labs, LLC",
   "license": "MIT",
   "private": true,
   "workspaces": {
