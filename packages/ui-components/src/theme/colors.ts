@@ -18,6 +18,7 @@ export const colors = {
         "c-green3": "#88f1bb",
         "c-green2": "#b5ffd9",
         "c-green1": "#eafff5",
+        "c-black3": "#242424",
         "c-black2": "#141414",
         "c-black1": "#0e0e0e"
        },
