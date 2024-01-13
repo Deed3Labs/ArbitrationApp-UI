@@ -33,13 +33,13 @@ const DesktopNavigation = () => {
 	return (
 		<div id="navigation" className="flex items-center justify-center gap-16">
 			<IllustrationRenderer customSize={50} icon={<N3LogoGreen />} size={"sm"} />
-			<div className="flex bg-pr-c-black1 rounded-base">
+			<div className="flex bg-pr-c-green1 rounded-base">
 				<Link href="/agreements">
 					<SmallCardButton>
 						<IconRenderer
 							className=""
 							icon={<N3Agreement />}
-							backgroundColor="pr-c-black1"
+							backgroundColor="pr-c-green1"
 							size="xs"
 							rounded
 						/>
