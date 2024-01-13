@@ -47,7 +47,7 @@ export const colors = {
         "c-700": "#224059",
         "c-600": "#426685",
         "c-500": "#7395b2",
-        "c-400": "#acc5da",
+        "c-400": "#ffffffb3",
         "c-300": "#e2eff9",
         "c-200": "#ffffff1a",
         "c-100": "#ffffff"
