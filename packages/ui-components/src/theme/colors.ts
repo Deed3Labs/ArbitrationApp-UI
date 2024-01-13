@@ -17,7 +17,9 @@ export const colors = {
         "c-blue1": "#e9f8ff",
         "c-green3": "#88f1bb",
         "c-green2": "#b5ffd9",
-        "c-green1": "#eafff5"
+        "c-green1": "#eafff5",
+        "c-black2": "#141414",
+        "c-black1": "#0e0e0e"
        },
        "sc": {
         "c-1A": "#7176ff",
