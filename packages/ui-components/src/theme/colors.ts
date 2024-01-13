@@ -42,7 +42,7 @@ export const colors = {
         "yellow1": "#fefad7"
        },
        "neutral": {
-        "c-800": "#172b3c",
+        "c-800": "#ffffff",
         "c-700": "#224059",
         "c-600": "#426685",
         "c-500": "#7395b2",
